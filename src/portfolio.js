@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://github.com/gabikohen',
-  title: 'Full Stack Developer.',
+  title: 'GK.',
 }
 
 const about = {
@@ -9,7 +9,7 @@ const about = {
   name: 'Gabriel Kohen',
   role: 'Full Stack Developer',
   description:
-    'I am a Full Stack developer looking to consolidate their SERN stack.I started writing code learning on my own, until I found a way to challenge myself in programming. I am meticulous, flexible, decisive with result oriented.I like to learn something new every day',
+    'I am a Full Stack developer looking to consolidate my SERN stack. I started writing code learning on my own, until I found a way to challenge myself in programming. I am meticulous, flexible, decisive with result oriented.I like to learn something new every day',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/gabriel-kohen-24b865b9/',
@@ -49,8 +49,7 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
+
   
   'JavaScript',
   'Node',
