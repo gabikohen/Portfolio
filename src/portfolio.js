@@ -25,27 +25,27 @@ const projects = [
     description:
       'E-commerce of sneakers',
     stack: ['Javascript','Node.js','MySQL','HTML','CSS','EJS','React'],
-    sourceCode: 'https://sportshoesdb.herokuapp.com/',
-    livePreview: 'https://github.com/gabikohen/SportShoes',
-    livePreview: 'https://github.com/gabikohen/Dashboard-SportShoes.git',
+    sourceCode1: 'https://sportshoesdb.herokuapp.com/',
+    livePreview1: 'https://github.com/gabikohen/SportShoes',
+    livePreview2: 'https://github.com/gabikohen/Dashboard-SportShoes.git'
   },
   {
     name: 'Schools',
     description:
       'It is a project that I am doing with a friend, it is about schools where parents can have direct communication with schools',
     stack: ['Javascript','Node.js','MySQL2','Tailwindui.','Next'],
-    sourceCode: 'https://github.com/giornn0/front-jardines.git',
-    sourceCode: 'https://github.com/giornn0/api_jardin.git',
-    livePreview: 'https://github.com',
+    sourceCode1: 'https://github.com/giornn0/front-jardines.git',
+    sourceCode2: 'https://github.com/giornn0/api_jardin.git',
+    livePreview1: 'https://github.com'
   },
   {
     name: 'Travel22',
     description:
       'Front end travel agency Webapp',
-      stack: ['Javascript',,'CSS','React'],
-    sourceCode: 'https://github.com/gabikohen/React-WebApp.git',
-    livePreview: 'https://react-app-travel22.herokuapp.com/',
-  },
+      stack: ['Javascript','CSS','React'],
+    sourceCode1: 'https://github.com/gabikohen/React-WebApp.git',
+    livePreview1: 'https://react-app-travel22.herokuapp.com/',
+  }
 ]
 
 const skills = [

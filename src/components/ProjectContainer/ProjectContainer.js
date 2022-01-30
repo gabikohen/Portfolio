@@ -18,9 +18,9 @@ const ProjectContainer = ({ project }) => (
       </ul>
     )}
 
-    {project.sourceCode && (
+    {project.sourceCode1 && (
       <a
-        href={project.sourceCode}
+        href={project.sourceCode1}
         aria-label='source code'
         className='link link--icon'
       >
@@ -28,9 +28,29 @@ const ProjectContainer = ({ project }) => (
       </a>
     )}
 
-    {project.livePreview && (
+{project.sourceCode2 && (
       <a
-        href={project.livePreview}
+        href={project.sourceCode2}
+        aria-label='source code'
+        className='link link--icon'
+      >
+        <GitHubIcon />
+      </a>
+    )}
+
+    {project.livePreview1 && (
+      <a
+        href={project.livePreview1}
+        aria-label='live preview'
+        className='link link--icon'
+      >
+        <LaunchIcon />
+      </a>
+    )}
+
+   {project.livePreview2 && (
+      <a
+        href={project.livePreview2}
         aria-label='live preview'
         className='link link--icon'
       >
