@@ -60,13 +60,16 @@ const skills = [
   
   'JavaScript',
   'Node',
-  'MySQL(Sequelize,Prisma)',
+  'MySQL',
+  'Sequelize',
+  'Prisma',
   'HTML5',
   'CSS3',
   'Next',
   'React',
   'Redux',
   'Bootstrap',
+  'Tailwindui.',
   'Material UI',
   'Git',
   'Methodology agile'
