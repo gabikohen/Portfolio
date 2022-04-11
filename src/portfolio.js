@@ -9,7 +9,7 @@ const about = {
   name: 'Gabriel Kohen',
   role: 'Full Stack Developer',
   description:
-    'I am a Full Stack developer looking to consolidate my SERN stack. I started writing code learning on my own, until I found a way to challenge myself in programming. I am meticulous, flexible, decisive with result oriented.I like to learn something new every day',
+    'I am a Full Stack developer ',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/gabriel-kohen-24b865b9/',
@@ -28,23 +28,8 @@ const projects = [
     sourceCode: 'https://sportshoesdb.herokuapp.com/',
     livePreview: 'https://github.com/gabikohen/SportShoes',
   },
-  {
-    name: 'Schools Back-end',
-    description:
-      'It is a project that I am doing with a friend, it is about schools where parents can have direct communication with schools',
-    stack: ['Javascript','Node.js','MySQL2'],
-   sourceCode: 'https://github.com/giornn0/api_jardin.git',
-    livePreview: 'https://github.com'
-  },
 
-  {
-    name: 'Schools Front-end',
-    stack: ['MySQL2','Tailwindui','MUI','Next.JS'],
-    sourceCode: 'https://github.com/giornn0/front-jardines.git',
-    livePreview: 'https://github.com'
-  },
-
-
+ 
   {
     name: 'Travel22',
     description:
@@ -60,17 +45,14 @@ const skills = [
   
   'JavaScript',
   'Node',
-  'MySQL',
+  'SQL',
   'Sequelize',
-  'Prisma',
-  'HTML5',
-  'CSS3',
-  'Next',
+  'Django',
   'React',
   'Redux',
+  'HTML5',
+  'CSS3',
   'Bootstrap',
-  'Tailwindui.',
-  'Material UI',
   'Git',
   'Methodology agile'
 
