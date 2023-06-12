@@ -7,9 +7,9 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Gabriel Kohen',
-  role: 'Full Stack Developer',
+  role: '',
   description:
-    'I am a Full Stack developer ',
+    'Product Owner || Project Manager || Software Developer || Business Developer ',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/gabriel-kohen-24b865b9/',
@@ -26,17 +26,23 @@ const projects = [
       'E-commerce of sneakers',
     stack: ['Javascript','Node.js','MySQL','HTML','CSS','EJS',],
     sourceCode: 'https://sportshoesdb.herokuapp.com/',
-    livePreview: 'https://github.com/gabikohen/SportShoes',
+ 
   },
 
  
   {
     name: 'Travel22',
     description:
-      'Front end travel agency Webapp',
+      'Front-End travel agency Webapp',
       stack: ['Javascript','CSS','React'],
-    sourceCode: 'https://github.com/gabikohen/React-WebApp.git',
     livePreview: 'https://react-app-travel22.herokuapp.com/',
+  },
+  {
+  name: 'OneReach',
+  description:
+    'Software Developer',
+    stack: ['Javascript','CSS','HTML','UX','GPT-3'],
+  livePreview: 'https://my-stg.onereach.ai/',
   }
 ]
 
@@ -54,7 +60,8 @@ const skills = [
   'CSS3',
   'Bootstrap',
   'Git',
-  'Methodology agile'
+  'Methodology agile',
+   'GPT3'
 
 
 ]
