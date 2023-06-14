@@ -22,48 +22,39 @@ const projects = [
   // if there are no projects, Projects section won't show up
   {
     name: 'Sport-Shoes',
-    description:
-      'E-commerce of sneakers',
-    stack: ['Javascript','Node.js','MySQL','HTML','CSS','EJS',],
+    description: 'E-commerce of sneakers',
+    stack: ['Javascript', 'Node.js', 'MySQL', 'HTML', 'CSS', 'EJS'],
     sourceCode: 'https://sportshoesdb.herokuapp.com/',
- 
   },
 
- 
   {
     name: 'Travel22',
-    description:
-      'Front-End travel agency Webapp',
-      stack: ['Javascript','CSS','React'],
+    description: 'Front-End travel agency Webapp',
+    stack: ['Javascript', 'CSS', 'React'],
     livePreview: 'https://react-app-travel22.herokuapp.com/',
   },
   {
-  name: 'OneReach',
-  description:
-    'Software Developer',
-    stack: ['Javascript','CSS','HTML','UX','GPT-3'],
-  livePreview: 'https://my-stg.onereach.ai/',
-  }
+    name: 'OneReach',
+    description: 'Software Developer',
+    stack: ['Javascript', 'CSS', 'HTML', 'UX', 'GPT-3'],
+    livePreview: 'https://my-stg.onereach.ai/',
+  },
 ]
 
 const skills = [
-
-  
-  'JavaScript',
+  'Methodology agile',
+  'Sales',
+  'Product development',
+  'Problem solving',
+  'Project management',
+  'Critical thinking',
   'Node',
   'SQL',
-  'Sequelize',
   'Django',
   'React',
-  'Redux',
-  'HTML5',
-  'CSS3',
   'Bootstrap',
   'Git',
-  'Methodology agile',
-   'GPT3'
-
-
+  'GPT3',
 ]
 
 const contact = {
