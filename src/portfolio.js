@@ -9,7 +9,7 @@ const about = {
   name: 'Gabriel Kohen',
   role: '',
   description:
-    'Product Owner || Project Manager || Software Developer || Business Developer ',
+    'Software Developer | Project Manager | Business Strategist | Sales Enthusiast',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/gabriel-kohen-24b865b9/',
@@ -23,16 +23,11 @@ const projects = [
   {
     name: 'Sport-Shoes',
     description: 'E-commerce of sneakers',
-    stack: ['Javascript', 'Node.js', 'MySQL', 'HTML', 'CSS', 'EJS'],
-    sourceCode: 'https://sportshoesdb.herokuapp.com/',
+    stack: ['Node.js', 'MySQL', 'HTML', 'CSS', 'EJS'],
+    livePreview: 'https://sportshoes.onrender.com/',
   },
 
-  {
-    name: 'Travel22',
-    description: 'Front-End travel agency Webapp',
-    stack: ['Javascript', 'CSS', 'React'],
-    livePreview: 'https://react-app-travel22.herokuapp.com/',
-  },
+ 
   {
     name: 'OneReach',
     description: 'Software Developer',
@@ -42,19 +37,19 @@ const projects = [
 ]
 
 const skills = [
+  'Node',
+  'SQL',
+  'React',
+  'Bootstrap',
+  'Git',
+  'GPT3',
   'Methodology agile',
   'Sales',
   'Product development',
   'Problem solving',
   'Project management',
   'Critical thinking',
-  'Node',
-  'SQL',
-  'Django',
-  'React',
-  'Bootstrap',
-  'Git',
-  'GPT3',
+  
 ]
 
 const contact = {
