@@ -9,7 +9,7 @@ const about = {
   name: 'Gabriel Kohen',
   role: '',
   description:
-    'Software Developer | Project Manager | Business Strategist | Sales Enthusiast',
+    'Frontend  | Project Manager | Data scientist | Machine learning',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/gabriel-kohen-24b865b9/',
@@ -30,26 +30,29 @@ const projects = [
  
   {
     name: 'OneReach',
-    description: 'Software Developer',
+    description: 'Chat Bots',
     stack: ['Javascript', 'CSS', 'HTML', 'UX', 'GPT-3'],
-    livePreview: 'https://my-stg.onereach.ai/',
+    livePreview: 'https://chat.staging.onereach.ai/03-jCoqDQhulcbPf6K5MIA/03vdqqk?loader=auto',
   },
+
+  {
+    name: 'Capital CAI',
+    description: 'Finance',
+    stack: ['React','Tailwind'],
+    livePreview: 'https://capitalcai.com/',
+  },
+
+
 ]
 
 const skills = [
-  'Node',
+  'Python',
+  'Pandas',
+  'Scikit-learn',
   'SQL',
   'React',
-  'Bootstrap',
-  'Git',
-  'GPT3',
-  'Methodology agile',
-  'Sales',
-  'Product development',
-  'Problem solving',
-  'Project management',
-  'Critical thinking',
-  
+  'tailwind',
+  'Git',  
 ]
 
 const contact = {
