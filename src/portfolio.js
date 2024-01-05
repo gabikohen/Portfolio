@@ -42,6 +42,13 @@ const projects = [
     livePreview: 'https://capitalcai.com/',
   },
 
+  {
+    name: 'Ministerio de la Mujer',
+    description: 'Project manager',
+    stack: ['Jira','Project Libre','Slack','Team Manage','Project Planning'],
+    livePreview: 'https://dev-cjmujer.anfler.com.ar/persona/consultante/list',
+  },
+
 
 ]
 
