@@ -43,6 +43,13 @@ const projects = [
   },
 
   {
+    name: 'Capital CAI Europa',
+    description: 'Finance',
+    stack: ['React','Tailwind'],
+    livePreview: 'https://capitalcai-zh.com/',
+  },
+
+  {
     name: 'Ministerio de la Mujer',
     description: 'Project manager',
     stack: ['Jira','Project Libre','Slack','Team Manage','Project Planning'],
